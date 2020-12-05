@@ -1,4 +1,4 @@
-# CSE539-Encryption-with-MAC
+# encryption-with-MAC
 
 **Objective: Write a program that encrypts data using symmetric encryption and MAC**
 
